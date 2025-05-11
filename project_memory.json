@@ -1,0 +1,19 @@
+{
+    "ai research": {
+      "urls": [
+        "https://arxiv.org/abs/2301.00001",
+        "https://cohere.com/docs"
+      ],
+      "pdfs": [
+        "C:/Users/Joey Sleiman/Documents/papers/transformers.pdf"
+      ]
+    },
+    "web design": {
+      "urls": [
+        "https://css-tricks.com",
+        "https://figma.com"
+      ],
+      "pdfs": []
+    }
+  }
+  

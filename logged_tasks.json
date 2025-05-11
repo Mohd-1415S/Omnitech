@@ -1,0 +1,19 @@
+{
+  "ai research": [
+    {
+      "timestamp": "2025-05-09 14:00",
+      "tasks": [
+        "Fix bug",
+        "Tune model"
+      ]
+    }
+  ],
+  "web design": [
+    {
+      "timestamp": "2025-05-10 17:30",
+      "tasks": [
+        "Fix responsive layout"
+      ]
+    }
+  ]
+}
